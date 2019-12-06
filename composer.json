@@ -1,0 +1,26 @@
+{
+  "name": "jose-chan/rsa-sign",
+  "type": "library",
+  "description": "Simple Component For Sign By RSA with SHA256",
+  "keywords": [
+    "signature",
+    "rsa"
+  ],
+  "homepage": "http://phpseclib.sourceforge.net",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "JoseChan",
+      "email": "524233828@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3",
+    "phpseclib/phpseclib": "^2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "JoseChan\\RsaSign\\": "src/"
+    }
+  }
+}
