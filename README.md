@@ -15,7 +15,7 @@
 #### 安装
 
 ````
-composer require "json-chan:rsa-sign"
+composer require "json-chan/rsa-sign"
 ````
 
 
